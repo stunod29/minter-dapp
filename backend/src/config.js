@@ -604,9 +604,9 @@ try {
 // END NFTPort Info
 
 const solanaMetadata = {
-  symbol: "YC",
+  symbol: "NWN",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  external_url: "https://discord.gg/gEtKNScPjv",
   creators: [
     {
       address: "0x102E87C1a061F5736c3CbD5085127C35aFE01E77",
